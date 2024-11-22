@@ -17,7 +17,7 @@ def Gen_Eff(V, CL, IL, K, Rsh, Ra):
     return Eff, CUL
 
 # Streamlit UI
-st.title("02341A0259-PS12")  # Title with Roll No. and Problem Statement No.
+st.title("2305A21L05-PS12")  # Title with Roll No. and Problem Statement No.
 
 # Input fields for the user to enter values
 V = st.number_input("Enter Voltage (V)", min_value=0.0, step=0.1)
